@@ -99,7 +99,7 @@ python src/neural_network.py
 2. No deep learning frameworks (TensorFlow, PyTorch, Keras) are used
 3. The implementation prioritizes clarity and conceptual correctness
 
-**Author**
-Kanishka Sharma
-B.Tech – Computer Science (AI & ML)
+**Author** <br>
+Kanishka Sharma <br>
+B.Tech – Computer Science (AI & ML) <br>
 AI Internship Project
