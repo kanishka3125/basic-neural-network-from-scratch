@@ -64,13 +64,13 @@ These plots are saved in the results/ directory.
 basic-neural-network-from-scratch/<br>
 │
 ├── src/<br>
-│   └── neural_network.py<br>
+│   └── neural_network.py
 │
 ├── results/<br>
-│   ├── loss.png<br>
-│   └── accuracy.png<br>
+│   ├── loss.png
+│   └── accuracy.png
 │
-├── README.md<br>
+├── README.md
 └── requirements.txt<br>
 
 **How to Run the Project**
