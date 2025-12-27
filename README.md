@@ -61,17 +61,17 @@ These plots are saved in the results/ directory.
 
 **Project Structure**
 
-basic-neural-network-from-scratch/
+basic-neural-network-from-scratch/<br>
 │
-├── src/
-│   └── neural_network.py
+├── src/<br>
+│   └── neural_network.py<br>
 │
-├── results/
-│   ├── loss.png
-│   └── accuracy.png
+├── results/<br>
+│   ├── loss.png<br>
+│   └── accuracy.png<br>
 │
-├── README.md
-└── requirements.txt
+├── README.md<br>
+└── requirements.txt<br>
 
 **How to Run the Project**
 
