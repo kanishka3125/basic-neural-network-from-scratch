@@ -88,10 +88,13 @@ basic-neural-network-from-scratch/
 **How to Run the Project**
 
 1. Install Dependencies
+```
 pip install -r requirements.txt
-
-2. Execute the Program
+```
+3. Execute the Program
+```
 python src/neural_network.py
+```
 
 **Notes**
 
