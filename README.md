@@ -1,6 +1,6 @@
-**Basic Neural Network from Scratch (NumPy)**
+### Basic Neural Network from Scratch (NumPy)
 
-**Overview**
+### Overview
 
 1. This project implements a feedforward neural network from scratch using NumPy to classify handwritten digits (0–9).
 2. The objective of this work is to understand the internal mechanics of neural networks, including forward propagation, loss
