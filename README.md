@@ -59,6 +59,17 @@ The following graphs are generated automatically:
 
 These plots are saved in the results/ directory.
 
+### Loss Curve
+The graph below shows how the training loss decreases over epochs.
+
+![Loss vs Epochs](results/loss.png)
+
+### Accuracy Curve
+The graph below shows how classification accuracy improves during training.
+
+![Accuracy vs Epochs](results/accuracy.png)
+
+
 **Project Structure**
 ```
 basic-neural-network-from-scratch/
