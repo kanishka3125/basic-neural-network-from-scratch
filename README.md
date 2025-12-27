@@ -60,7 +60,7 @@ The following graphs are generated automatically:
 These plots are saved in the results/ directory.
 
 **Project Structure**
-
+```
 basic-neural-network-from-scratch/
 │
 ├── src/
@@ -72,6 +72,7 @@ basic-neural-network-from-scratch/
 │
 ├── README.md
 └── requirements.txt
+```
 
 **How to Run the Project**
 
